@@ -2,7 +2,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=anime-sama.fr&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Eddy976/cloudstream-extensions-eddy",
+        "repositoryUrl": "https://github.com/Lextii/cloudstream-extensions-Lextii",
         "fileSize": 31014,
         "status": 1,
         "language": "fr",
@@ -22,7 +22,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=french-stream.ac&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Eddy976/cloudstream-extensions-eddy",
+        "repositoryUrl": "https://github.com/Lextii/cloudstream-extensions-Lextii",
         "fileSize": 17790,
         "status": 1,
         "language": "fr",
@@ -37,13 +37,13 @@
         "version": 1,
         "internalName": "FrenchStreamProvider",
         "description": "FRENCH STREAM en plus d'\u00eatre un site efficace et plaisant dispose d'un contenu visuel diversifi\u00e9",
-        "url": "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/FrenchStreamProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Lextii/cloudstream-extensions-Lextii/builds/FrenchStreamProvider.cs3",
         "name": "FrenchStreamProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=franceiptv.fr/&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Eddy976/cloudstream-extensions-eddy",
+        "repositoryUrl": "https://github.com/Lextii/cloudstream-extensions-Lextii",
         "fileSize": 42089,
         "status": 1,
         "authors": [
@@ -61,7 +61,7 @@
     {
         "iconUrl": "https://mesfilms.lol/wp-content/uploads/2021/08/mflogo_round.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Eddy976/cloudstream-extensions-eddy",
+        "repositoryUrl": "https://github.com/Lextii/cloudstream-extensions-Lextii",
         "fileSize": 15927,
         "status": 1,
         "language": "fr",
@@ -73,13 +73,13 @@
         ],
         "version": 1,
         "internalName": "MesFilmsProvider",
-        "url": "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/MesFilmsProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Lextii/cloudstream-extensions-Lextii/builds/MesFilmsProvider.cs3",
         "name": "MesFilmsProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=neko-sama.fr&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Eddy976/cloudstream-extensions-eddy",
+        "repositoryUrl": "https://github.com/Lextii/cloudstream-extensions-Lextii",
         "fileSize": 25504,
         "status": 1,
         "language": "fr",
@@ -93,13 +93,13 @@
         "version": 1,
         "internalName": "NekosamaProvider",
         "description": " Ce site fait son entr\u00e9e dans la cat\u00e9gorie des meilleurs sites animes Fran\u00e7ais. Il est tr\u00e8s fiable car quasiment tous ses liens vid\u00e9os marchent. Il propose des animes en \u00ab VF \u00bb version fran\u00e7aise et en \u00ab VOSTFR \u00bb version originale Sous-titr\u00e9e en Fran\u00e7ais.",
-        "url": "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/NekosamaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Lextii/cloudstream-extensions-Lextii/builds/NekosamaProvider.cs3",
         "name": "NekosamaProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=otakufr.co&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Eddy976/cloudstream-extensions-eddy",
+        "repositoryUrl": "https://github.com/Lextii/cloudstream-extensions-Lextii",
         "fileSize": 14866,
         "status": 1,
         "language": "fr",
@@ -113,13 +113,13 @@
         "version": 1,
         "internalName": "OtakuFRProvider",
         "description": "Otakurf.co met \u00e0 votre disposition une technologie omnipr\u00e9sente, qui vous permet de regarder  des animes qui sont sous-titr\u00e9s en fran\u00e7ais",
-        "url": "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/OtakuFRProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Lextii/cloudstream-extensions-Lextii/builds/OtakuFRProvider.cs3",
         "name": "OtakuFRProvider"
     },
     {
         "iconUrl": "https://thumbs.dreamstime.com/b/sur-les-ailes-de-la-libert%C3%A9-oiseaux-volant-et-cha%C3%AEnes-cass%C3%A9es-concept-charge-146675254.jpg",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Eddy976/cloudstream-extensions-eddy",
+        "repositoryUrl": "https://github.com/Lextii/cloudstream-extensions-Lextii",
         "fileSize": 19178,
         "status": 0,
         "language": "fr",
@@ -132,13 +132,13 @@
         "version": 1,
         "internalName": "PickTV",
         "description": "Ajoutez vos cha\u00eenes iptv pr\u00e9f\u00e9r\u00e9es",
-        "url": "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/PickTV.cs3",
+        "url": "https://raw.githubusercontent.com/Lextii/cloudstream-extensions-Lextii/builds/PickTV.cs3",
         "name": "PickTV"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=vostfree.cx&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Eddy976/cloudstream-extensions-eddy",
+        "repositoryUrl": "https://github.com/Lextii/cloudstream-extensions-Lextii",
         "fileSize": 20280,
         "status": 1,
         "language": "fr",
@@ -152,13 +152,13 @@
         "version": 1,
         "internalName": "VostfreeProvider",
         "description": " Ce site est certainement l\u2019un des meilleurs sites permettant de regarder des animes en ligne et gratuitement. Il vous propose la version \u00ab VF \u00bb version fran\u00e7aise et la \u00ab VOSTFR \u00bb version originale Sous-titr\u00e9e en Fran\u00e7ais.",
-        "url": "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/VostfreeProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Lextii/cloudstream-extensions-Lextii/builds/VostfreeProvider.cs3",
         "name": "VostfreeProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=wiflix.zone&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Eddy976/cloudstream-extensions-eddy",
+        "repositoryUrl": "https://github.com/Lextii/cloudstream-extensions-Lextii",
         "fileSize": 22172,
         "status": 1,
         "language": "fr",
@@ -172,7 +172,27 @@
         "version": 1,
         "internalName": "WiflixProvider",
         "description": "WIFLIX, le site gr\u00e2ce auquel vous allez pouvoir regarder vos films et s\u00e9ries pr\u00e9f\u00e9r\u00e9es",
-        "url": "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/WiflixProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Lextii/cloudstream-extensions-Lextii/builds/WiflixProvider.cs3",
+        "name": "WiflixProvider"
+    },
+        {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=frflix.zone&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Lextii/cloudstream-extensions-Lextii",
+        "fileSize": 22172,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Lextii"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "FrflixProvider",
+        "description": "WIFLIX, Frflix",
+        "url": "https://raw.githubusercontent.com/Lextii/cloudstream-extensions-Lextii/builds/WiflixProvider.cs3",
         "name": "WiflixProvider"
     }
 ]
