@@ -16,7 +16,7 @@
         "version": 1,
         "internalName": "AnimeSamaProvider",
         "description": "D\u00e9couvrez ce site qui regroupe les derniers animes et les scans. C'est un site pour les fans de manga. Tout y est",
-        "url": "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/AnimeSamaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Lextii/cloudstream-extensions-Lextii/builds/AnimeSamaProvider.cs3",
         "name": "AnimeSamaProvider"
     },
     {
@@ -55,7 +55,7 @@
         "version": 1,
         "internalName": "MaciptvProvider",
         "description": "Add your IPTV account or alternatively, the automatic account will allow you to watch live (Sport, movies, ...).",
-        "url": "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/MaciptvProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-Lextii/builds/MaciptvProvider.cs3",
         "name": "MaciptvProvider"
     },
     {
