@@ -3,6 +3,6 @@
     "description": "Cloudstream Non-english Plugin Repository - thanks to Eddy976",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/Lextii/cloudstream-extensions-Lextii/builds/plugins.json"
+      "https://raw.githubusercontent.com/Lextii/cloudstream-extensions-Lextii/builts/plugins.json"
     ]
 }
