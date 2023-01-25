@@ -174,18 +174,5 @@
         "description": "WIFLIX, le site gr\u00e2ce auquel vous allez pouvoir regarder vos films et s\u00e9ries pr\u00e9f\u00e9r\u00e9es",
         "url": "https://github.com/Lextii/cloudstream-extensions-Lextii/raw/builts/WiflixProvider.cs3",
         "name": "WiflixProvider"
-    },
-        {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=frflix.zone&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Lextii/cloudstream-extensions-Lextii",
-        "fileSize": 22172,
-        "status": 1,
-        "language": "fr",
-        "authors": [
-            "Lextii"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
+    }
+]
