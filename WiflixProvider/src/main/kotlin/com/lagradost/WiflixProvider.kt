@@ -40,7 +40,7 @@ class WiflixProvider : MainAPI() {
                     }
             }
         } catch (e: Exception) { // url changed
-            app.get(https://raw.githubusercontent.com/Lextii/cloudstream-extensions-Lextii/builts/fetch.json")
+            app.get("https://raw.githubusercontent.com/Lextii/cloudstream-extensions-Lextii/builts/fetch.json")
                 .parsed<ArrayList<mediaData>>().forEach {
                     if (it.title.contains("wiflix", ignoreCase = true)) {
                         mainUrl = it.url
