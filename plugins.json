@@ -189,10 +189,4 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
-        "internalName": "FrflixProvider",
-        "description": "WIFLIX, Frflix",
-        "url": "",
-        "name": "WiflixProvider"
-    }
 ]
