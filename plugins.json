@@ -172,7 +172,7 @@
         "version": 1,
         "internalName": "WiflixProvider",
         "description": "WIFLIX, le site gr\u00e2ce auquel vous allez pouvoir regarder vos films et s\u00e9ries pr\u00e9f\u00e9r\u00e9es",
-        "url": "https://raw.githubusercontent.com/Lextii/cloudstream-extensions-Lextii/builds/WiflixProvider.cs3",
+        "url": "https://github.com/Lextii/cloudstream-extensions-Lextii/raw/builts/WiflixProvider.cs3",
         "name": "WiflixProvider"
     },
         {
@@ -192,7 +192,7 @@
         "version": 1,
         "internalName": "FrflixProvider",
         "description": "WIFLIX, Frflix",
-        "url": "https://raw.githubusercontent.com/Lextii/cloudstream-extensions-Lextii/builds/WiflixProvider.cs3",
+        "url": "",
         "name": "WiflixProvider"
     }
 ]
