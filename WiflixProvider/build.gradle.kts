@@ -6,8 +6,8 @@ cloudstream {
     language = "fr"
     // All of these properties are optional, you can safely remove them
 
-    description = "WIFLIX, le site grâce auquel vous allez pouvoir regarder vos films et séries préférées"
-    authors = listOf("Eddy")
+    description = "WIFLIX"
+    authors = listOf("Lextii")
 
     /**
      * Status int as the following:
