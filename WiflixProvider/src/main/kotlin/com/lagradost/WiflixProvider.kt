@@ -32,7 +32,7 @@ class WiflixProvider : MainAPI() {
                 mainUrl = newMainUrl
             } else {
                 // i don't know why but clone feature seems not to work with wiflix then get the url from a file
-                app.get("https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/ressources/fetchwebsite.json")
+                app.get("https://raw.githubusercontent.com/Lextii/cloudstream-extensions-Lextii/builts/fetch.json")
                     .parsed<ArrayList<mediaData>>().forEach {
                         if (it.title.contains("wiflix", ignoreCase = true)) {
                             mainUrl = it.url
@@ -40,7 +40,7 @@ class WiflixProvider : MainAPI() {
                     }
             }
         } catch (e: Exception) { // url changed
-            app.get("https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/ressources/fetchwebsite.json")
+            app.get(https://raw.githubusercontent.com/Lextii/cloudstream-extensions-Lextii/builts/fetch.json")
                 .parsed<ArrayList<mediaData>>().forEach {
                     if (it.title.contains("wiflix", ignoreCase = true)) {
                         mainUrl = it.url
