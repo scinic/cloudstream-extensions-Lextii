@@ -163,13 +163,13 @@
         "status": 1,
         "language": "fr",
         "authors": [
-            "Eddy"
+            "lextii"
         ],
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "WiflixProvider",
         "description": "WIFLIX, le site gr\u00e2ce auquel vous allez pouvoir regarder vos films et s\u00e9ries pr\u00e9f\u00e9r\u00e9es",
         "url": "https://github.com/Lextii/cloudstream-extensions-Lextii/raw/builts/WiflixProvider.cs3",
