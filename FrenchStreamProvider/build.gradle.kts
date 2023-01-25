@@ -1,5 +1,5 @@
 // use an integer for version numbers
-version = 1
+version = 2
 
 
 cloudstream {
@@ -7,7 +7,7 @@ cloudstream {
     // All of these properties are optional, you can safely remove them
 
      description = "FRENCH STREAM en plus d'être un site efficace et plaisant dispose d'un contenu visuel diversifié"
-     authors = listOf("Sarlay", "Eddy976, Lextii")
+     authors = listOf("Lextii")
 
     /**
      * Status int as the following:
