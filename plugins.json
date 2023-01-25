@@ -34,10 +34,10 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "FrenchStreamProvider",
         "description": "FRENCH STREAM en plus d'\u00eatre un site efficace et plaisant dispose d'un contenu visuel diversifi\u00e9",
-        "url": "https://raw.githubusercontent.com/Lextii/cloudstream-extensions-Lextii/builds/FrenchStreamProvider.cs3",
+        "url": "https://github.com/Lextii/cloudstream-extensions-Lextii/blob/builts/FrenchStreamProvider.cs3?raw=true",
         "name": "FrenchStreamProvider"
     },
     {
@@ -47,7 +47,7 @@
         "fileSize": 42089,
         "status": 1,
         "authors": [
-            "Eddy"
+            "Lextii"
         ],
         "tvTypes": [
             "Live"
